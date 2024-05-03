@@ -21,19 +21,19 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐕2 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzshukla/STRANGER-MUSIC/fork")
+                        "🗡️ 𝐕2 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/greatpersonxd/DOREAMONMUSIC/fork")
                 ],
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐂ʜᴀᴛ 𝐁ᴏᴛ 𝐑ᴇᴘᴏ  🗡️", url=f"https://github.com/itzshukla/STRANGER-CHATBOT/fork")
+                        "🗡️ 𝐂ʜᴀᴛ 𝐁ᴏᴛ 𝐑ᴇᴘᴏ  🗡️", url=f"https://github.com/greatpersonxd/DOREAMONCHATBOT/fork")
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐕1 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzshukla/STRANGER-MUSIC2.0/fork")
+                        "🗡️ 𝐕1 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/greatpersonxd/DOREAMON-MUSIC2.0/fork")
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐒ᴘᴀᴍ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzshukla/STRANGER-SPAM-X/fork")
+                        "🗡️ 𝐒ᴘᴀᴍ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/greatpersonxd/SPAMBOT/fork")
                  ]
             ]
         ),
@@ -50,19 +50,19 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐕2 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzshukla/STRANGER-MUSIC/fork")
+                        "🗡️ 𝐕2 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/greatpersonxd/DOREAMONMUSIC/fork")
                 ],
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐂ʜᴀᴛ 𝐁ᴏᴛ 𝐑ᴇᴘᴏ  🗡️", url=f"https://github.com/itzshukla/STRANGER-CHATBOT/fork")
+                        "🗡️ 𝐂ʜᴀᴛ 𝐁ᴏᴛ 𝐑ᴇᴘᴏ  🗡️", url=f"https://github.com/greatpersonxd/DOREAMONCHATBOT/fork")
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐕1 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzshukla/STRANGER-MUSIC2.0/fork")
+                        "🗡️ 𝐕1 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/greatpersonxd/DOREAMONMUSIC2.0/fork")
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐒ᴘᴀᴍ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzshukla/STRANGER-SPAM-X/fork")
+                        "🗡️ 𝐒ᴘᴀᴍ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/greatpersonxd/SPAMBOT/fork")
                  ]
             ]
         ),
@@ -87,11 +87,11 @@ async def help(client: Client, message: Message):
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐕1 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzshukla/STRANGER-MUSIC2.0/fork")
+                        "🗡️ 𝐕1 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/greatpersonxd/STRANGER-MUSIC2.0/fork")
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐒ᴘᴀᴍ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzshukla/STRANGER-SPAM-X/fork")
+                        "🗡️ 𝐒ᴘᴀᴍ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/greatpersonxd/STRANGER-SPAM-X/fork")
                  ]
             ]
         ),
