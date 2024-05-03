@@ -11,7 +11,7 @@ from ..logging import LOGGER
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 STRING_SESSION = getenv("STRING_SESSION", "")
-TEST_ID = int("-1002090555194")
+TEST_ID = int("-1002117168252")
 
 assistants = []
 assistantids = []
@@ -62,11 +62,11 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("SHIVANSH474")
-                await self.one.join_chat("SHIVANSH474")
-                await self.one.join_chat("MASTIWITHFRIENDSXD")
-                await self.one.join_chat("STRANGERXWORLD")
-                await self.one.join_chat("strangerbotslogs")
+                await self.one.join_chat("THE_INCRICIBLE")
+                await self.one.join_chat("ABOUT_GODFATHER")
+                await self.one.join_chat("Freinds_club")
+                await self.one.join_chat("Boy_girl_dp")
+                await self.one.join_chat("incricible")
             except:
                 pass
             assistants.append(1)
@@ -94,10 +94,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("SHIVANSH474")
-                await self.two.join_chat("SHIVANSH474")
-                await self.two.join_chat("MASTIWITHFRIENDSXD")
-                await self.two.join_chat("STRANGERXWORLD")
+                await self.two.join_chat("about_godfather")
+                await self.two.join_chat("Boy_girl_dp")
+                await self.two.join_chat("The_Incricible")
+                await self.two.join_chat("Incricible")
             except:
                 pass
             assistants.append(2)
