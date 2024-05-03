@@ -21,10 +21,10 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/SHIVANSH39")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/GREATPERSON_XD")
                 ],
                 [InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ITSZ_SHIVANSH")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/LEGEND_TOSU")
             ]
             ]
         ),
@@ -41,10 +41,10 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/SHIVANSH39")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/GREATPERSON_xd")
                 ],
                 [InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ITSZ_SHIVANSH")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/LEGEND_TOSU")
             ]
             ]
         ),
@@ -61,10 +61,10 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/SHIVANSH39")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/Greatperson_xd")
                 ],
                 [InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ITSZ_SHIVANSH")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/Legend_Tosu")
             ]
             ]
         ),
