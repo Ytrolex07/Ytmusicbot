@@ -25,7 +25,7 @@
 
 <p>
 <a href="https://t.me/String_father_bot-Gen"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/Itz_SapnaMusicbot-Gen"><img src="https://img.shields.io/badge/SAPNA%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/DOREAMON_RO_BOY-Gen"><img src="https://img.shields.io/badge/SAPNA%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 
 
 <h3 align="center">
@@ -35,7 +35,7 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/greatpersonxd/DOREAMONMUSIX2.0"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/greatpersonxd/DOREAMONMUSIC2.0"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
 
 
 
