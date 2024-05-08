@@ -83,7 +83,7 @@ def UserbotWrapper(command):
 
                 if invitelink.startswith("https://t.me/+"):
                     invitelink = invitelink.replace(
-                        "https://t.me/+", "https://t.me/joinchat/"
+                        "https://t.me/+", "https://t.me/NKD_Korean_group"
                     )
                 myu = await message.reply_text("𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗝𝗼𝗶𝗻𝗶𝗻𝗴 𝗧𝗵𝗶𝘀 𝗖𝗵𝗮𝘁..")
                 try:
