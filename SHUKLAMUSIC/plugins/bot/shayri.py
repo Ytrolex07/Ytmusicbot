@@ -64,9 +64,9 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨𝚂𝚄𝙿𝙿𝙾𝚁𝚃✨", url=f"https://t.me/THE_INCRICIBLE"),
+                        "✨𝚂𝚄𝙿𝙿𝙾𝚁𝚃✨", url=f"https://t.me/NKD_Korean_Drama_Hindi"),
                     InlineKeyboardButton(
-                        "✨𝙲𝙷𝙰𝚃✨", url=f"https://t.me/INCRICIBLE")
+                        "✨𝙲𝙷𝙰𝚃✨", url=f"https://t.me/NKD_Korean_Group")
                     
                 ]
             ]
@@ -84,9 +84,9 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨𝚂𝚄𝙿𝙿𝙾𝚁𝚃✨", url=f"https://t.me/THE_incricible"),
+                        "✨𝚂𝚄𝙿𝙿𝙾𝚁𝚃✨", url=f"https://t.me/NKD_Korean_Drama_Hindi"),
                     InlineKeyboardButton(
-                        "✨𝙲𝙷𝙰𝚃✨", url=f"https://t.me/INCRICIBLE")
+                        "✨𝙲𝙷𝙰𝚃✨", url=f"https://t.me/NKD_Korean_Group")
                     
                 ]
             ]
